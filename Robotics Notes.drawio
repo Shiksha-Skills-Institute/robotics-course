@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="C69GGXXoCVCRexYOma0J">
-    <mxGraphModel>
+    <mxGraphModel dx="1979" dy="2012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFF2CC" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-1" value="Robotics Notes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-1150" width="233" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-4" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;What is Robotics?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="57.56" y="-1040" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-1152" width="37.56" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#f8cecc;gradientColor=#ea6b66;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-1040" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-9" value="- Robotics is all about creating machines (robots) that can help people do work.&#xa;- Robots are like helpers that can do things humans might find hard, boring, or dangerous." style="text;whiteSpace=wrap;fontFamily=Comic Sans MS;fontSize=20;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-990" width="780" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
