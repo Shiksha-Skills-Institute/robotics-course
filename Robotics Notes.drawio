@@ -8,7 +8,7 @@
           <mxGeometry x="320" y="-1150" width="233" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4pqcKsT8YAekJ4YOohv6-4" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;What is Robotics?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="57.56" y="-1040" width="240" height="40" as="geometry" />
+          <mxGeometry x="56.56" y="-1040" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4pqcKsT8YAekJ4YOohv6-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="260" y="-1152" width="37.56" height="50" as="geometry" />
@@ -17,7 +17,46 @@
           <mxGeometry x="20" y="-1040" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4pqcKsT8YAekJ4YOohv6-9" value="- Robotics is all about creating machines (robots) that can help people do work.&#xa;- Robots are like helpers that can do things humans might find hard, boring, or dangerous." style="text;whiteSpace=wrap;fontFamily=Comic Sans MS;fontSize=20;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-990" width="780" height="120" as="geometry" />
+          <mxGeometry x="20" y="-989" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-10" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;What is requirement ?&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="66.56" y="-620" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-26" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;Practical : 1 - Handle Lighting&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70.56" y="-410" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#f8cecc;gradientColor=#ea6b66;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-620" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-25" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#f8cecc;gradientColor=#ea6b66;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="24" y="-410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-12" value="Arduino Board&#xa;Bread Board&#xa;Jump Wires&#xa;LEDs&#xa;IR sensor&#xa;&#xa;" style="text;whiteSpace=wrap;fontFamily=Comic Sans MS;fontSize=20;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="24" y="-570" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="-770" width="410.14" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="4pqcKsT8YAekJ4YOohv6-17" source="4pqcKsT8YAekJ4YOohv6-13" target="4pqcKsT8YAekJ4YOohv6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-13" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.arduino;fillColor=#36868D;strokeColor=none;fontFamily=Comic Sans MS;fontSize=20;fontColor=default;" vertex="1" parent="4pqcKsT8YAekJ4YOohv6-17">
+          <mxGeometry y="30" width="117.14" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/3-electronic-arduino-chipset-icon-2-128.png;align=left;fontFamily=Comic Sans MS;fontSize=20;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="4pqcKsT8YAekJ4YOohv6-17">
+          <mxGeometry x="287.14" width="123" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-18" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp; What we will learn ?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="41.56" y="-880" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-19" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#f8cecc;gradientColor=#ea6b66;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-880" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-20" value="We will start with basic Ardiuno Board and Electrical components" style="text;whiteSpace=wrap;fontFamily=Comic Sans MS;fontSize=20;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-829" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4pqcKsT8YAekJ4YOohv6-28" value="&lt;div style=&quot;font-size: 25px;&quot;&gt;Understand Ardiuno&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="190.07" y="-320" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
